@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Alexey/lesson25/buy.h
+string
+-
+
+C:/Users/Admin/Alexey/lesson25/main.cpp
+iostream
+-
+preson.h
+C:/Users/Admin/Alexey/lesson25/preson.h
+product.h
+C:/Users/Admin/Alexey/lesson25/product.h
+buy.h
+C:/Users/Admin/Alexey/lesson25/buy.h
+
+C:/Users/Admin/Alexey/lesson25/preson.h
+string
+-
+
+C:/Users/Admin/Alexey/lesson25/product.h
+string
+-
+
